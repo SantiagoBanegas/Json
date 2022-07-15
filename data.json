@@ -1,0 +1,12 @@
+[
+    {"nombre": "Zapatilla Nike", "talle": 36, "precio": 10.000},
+    {"nombre": "Zapatilla Nike", "talle": 37, "precio": 10.500 },
+    {"nombre": "Zapatilla Nike", "talle": 38, "precio": 11.000 },
+    {"nombre": "Zapatilla Nike", "talle": 39, "precio": 12.000 },
+    {"nombre": "Zapatilla Nike", "talle": 40, "precio": 12.500 },
+    {"nombre": "Zapatilla Nike", "talle": 41, "precio": 13.000 },
+    {"nombre": "Zapatilla Nike", "talle": 42, "precio": 13.500 },
+    {"nombre": "Zapatilla Nike", "talle": 43, "precio": 13.500 },
+    {"nombre": "Zapatilla Nike", "talle": 44, "precio": 15.000 },
+    {"nombre": "Zapatilla Nike", "talle": 45, "precio": 15.000 }
+]
